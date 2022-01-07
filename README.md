@@ -40,17 +40,18 @@ Y: 266
 ATTRIBUTE DESCRIPTION
 
 ID      Name    
-F1       intercolumnar distance 
-F2       upper margin 
-F3       lower margin 
-F4       exploitation 
-F5       row number 
-F6       modular ratio 
-F7       interlinear spacing 
-F8       weight 
-F9       peak number 
+F1      intercolumnar distance 
+F2      upper margin 
+F3      lower margin 
+F4      exploitation 
+F5      row number 
+F6      modular ratio 
+F7      interlinear spacing 
+F8      weight 
+F9      peak number 
 F10     modular ratio/ interlinear spacing
 Class: A, B, C, D, E, F, G, H, I, W, X, Y
+  
   <h2>
     Resources
   </h2>
